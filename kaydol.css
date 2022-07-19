@@ -1,0 +1,46 @@
+body{
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    background-image: url("background2.jpg");
+
+}
+.form{
+
+    background-color: white;
+    margin: 150px;
+    padding: 20px;
+    
+    width: 600px;
+    border: 3px solid black;
+    border-radius: 10px;
+    color:black ;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 24px;
+
+}
+table{
+    display: flex;
+    justify-content: center;
+    text-align: justify;
+}
+h2{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    color: rgb(0, 0, 68);
+    margin-bottom: 20px;
+
+}
+button{
+    margin: 10px;
+    padding: 10px;
+    color: white;
+    background-color: rgb(0, 0, 68);
+    border: 1px solid rgb(179, 179, 179) ;
+    border-radius: 10px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 24px;
+
+}

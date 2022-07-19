@@ -1,0 +1,17 @@
+.product-list {
+    width: 500px;
+    height: 200px;
+    border: 1px solid black;
+    margin-top: 150px;
+    margin-left: 550px;
+    margin-bottom: 200px;
+    display: flex;
+    justify-content: center;
+    text-align: justify;
+}
+
+.product-list-products {
+    border: 1px solid black;
+    width: 240px;
+    height: 100%;
+}
